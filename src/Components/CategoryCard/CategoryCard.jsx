@@ -1,5 +1,4 @@
 import { CardActionArea, Fade } from '@mui/material';
-import shadows from '@mui/material/styles/shadows';
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
